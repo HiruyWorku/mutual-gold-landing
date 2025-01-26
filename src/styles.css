@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gs-dark: #1C1C1C;
+  --gs-light: #F5F5F5;
+  --gs-purple: #5E2CA5;
+  --gs-neutral: #666666;
+}
+
+body {
+  font-family: 'Goldman Sans', sans-serif;
+}
