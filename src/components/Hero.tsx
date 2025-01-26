@@ -11,10 +11,10 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="lg:w-1/2 animate-fade-up">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-              Smart Mutual Fund Calculator
+              Mutual Fund Calculator
             </h1>
             <p className="text-lg lg:text-xl text-gs-white mb-8">
-              Make informed investment decisions with our professional-grade mutual fund calculator. Powered by Goldman Sachs expertise.
+              Powered by Goldman Sachs Emerging Leaders
             </p>
             <Button
               size="lg"
