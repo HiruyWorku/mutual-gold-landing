@@ -18,13 +18,14 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        lato: ['Lato', 'sans-serif'],
+      },
       colors: {
         gs: {
-          dark: "#1A1F2C",
-          purple: "#7E69AB",
-          light: "#D6BCFA",
-          neutral: "#8E9196",
-          background: "#F1F1F1",
+          dark: "#000000",
+          blue: "#7399C6",
+          white: "#FFFFFF",
         },
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
